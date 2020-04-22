@@ -1,0 +1,7 @@
+[package]
+edition = "2018"
+name = "sublist"
+version = "0.0.0"
+
+[dependencies]
+array_tool = "1.0.3"
